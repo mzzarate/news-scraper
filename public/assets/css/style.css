@@ -1,7 +1,7 @@
 /* Styles for the main page */
 #title {
   margin-left: 6%;
-  color: white;
+  color:yellowgreen;
 }
 
 #button {
@@ -22,7 +22,7 @@
 }
 
 #notes {
-  background-color: black;
+  background-color: white;
   margin-top: 10%;
   text-align: center;
 }
